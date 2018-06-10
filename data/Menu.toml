@@ -1,0 +1,24 @@
+[IDEA]
+    Name = "IDEA-USACH"
+    URL = "http://ideausach.cl"
+
+[COES]
+    Name = "Coes"
+    Title = "Show list of posts"
+    URL = "http://coes.cl"
+
+[tags]
+    Name = "Temas"
+    Title = "Lista de temas"
+    URL = "/tags"
+
+[post]
+    Name = "Posteos"
+    Title = "Lista de posteos"
+    URL = "/post"
+
+[program]
+    Name = "Programa"
+    Title = "Programa del Coloquio"
+    URL = "/programa"
+

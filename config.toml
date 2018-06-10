@@ -1,3 +1,46 @@
-baseURL = "http://example.org/"
+baseURL = "https://coloquio.github.io"
+
+relativeURLs = false
+
+title = "Coloquio Cohesión Social 2018"
+# description = "Cohesión social"
+copyright = "(c) 2018 vicente espinoza"
 languageCode = "en-us"
-title = "My New Hugo Site"
+# Metadata format
+metaDataFormat = "yaml"
+
+theme = "hyde-y" # small icon email
+paginate = 5
+paginatePath = "page"
+
+# disqusShortname = "comentarios"
+
+[permalinks]
+#     # Optional. Change the permalink format for the 'post' content type.
+#     # The format shown here is the same one Jekyll/Octopress uses by default.
+     post = "/:year/:month/:day/:slug/"
+     code = "/:slug/"
+
+[taxonomies]
+     tag = "tags"
+     category = "categories" # no aparece
+
+[author]
+    name = "COES & IDEA-USACH"
+    email = "vicente.espinoza@usach.cl"
+    
+[params]
+# You can use markdown here.
+#    brand = "foobar"
+    topline = "Blog asociado con el coloquio: Sociabilidad, convivencia y cohesión, miradas desde las redes interpersonales. Actividad gratuita y abierta al público. Fondecyt 1171426. COES & IDEA-USACH" 
+    footline = "Fondecyt 1171426"
+# Sidebar position: false, true, "left", "right"
+    sidebar = "left"    
+#    footline = "code with <i class='fa fa-heart'></i>"
+
+# # Text for the top menu link, which goes the root URL for the site.
+# # Default (if omitted) is "Home".
+    home = "Inicio"
+    DateFormat = "2 Jan 2006"
+    facebook = "Ideausach/"
+    youtube = "UCs9uSSVl7ucVqeSq4wVUIgA/videos/"
