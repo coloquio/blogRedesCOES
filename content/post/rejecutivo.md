@@ -1,12 +1,9 @@
 ---
 title: "Resumen Ejecutivo Fondecyt 1171426"
-date: 2018-05-30T12:27:33-04:00
+date: 2018-06-20T12:27:33-04:00
 draft: false
 tags: ["Fondecyt", "COES", "Redes", "ELSOC"]
 ---
-
-# Resumen Ejecutivo Proyecto FONDECYT 1171426
-
 
 ## “La estructura de la sociabilidad en Chile y sus consecuencias para nuestra convivencia. Análisis longitudinal de redes sociales”.
 
